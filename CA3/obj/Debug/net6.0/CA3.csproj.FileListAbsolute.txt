@@ -13,3 +13,18 @@ C:\Users\samki\Documents\Intro to C# 2\CA3\obj\Debug\net6.0\refint\CA3.dll
 C:\Users\samki\Documents\Intro to C# 2\CA3\obj\Debug\net6.0\CA3.pdb
 C:\Users\samki\Documents\Intro to C# 2\CA3\obj\Debug\net6.0\CA3.genruntimeconfig.cache
 C:\Users\samki\Documents\Intro to C# 2\CA3\obj\Debug\net6.0\ref\CA3.dll
+C:\Users\samki\Documents\GitHub\Programming-Semester-2-CA3\CA3\bin\Debug\net6.0\CA3.exe
+C:\Users\samki\Documents\GitHub\Programming-Semester-2-CA3\CA3\bin\Debug\net6.0\CA3.deps.json
+C:\Users\samki\Documents\GitHub\Programming-Semester-2-CA3\CA3\bin\Debug\net6.0\CA3.runtimeconfig.json
+C:\Users\samki\Documents\GitHub\Programming-Semester-2-CA3\CA3\bin\Debug\net6.0\CA3.dll
+C:\Users\samki\Documents\GitHub\Programming-Semester-2-CA3\CA3\bin\Debug\net6.0\CA3.pdb
+C:\Users\samki\Documents\GitHub\Programming-Semester-2-CA3\CA3\obj\Debug\net6.0\CA3.csproj.AssemblyReference.cache
+C:\Users\samki\Documents\GitHub\Programming-Semester-2-CA3\CA3\obj\Debug\net6.0\CA3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samki\Documents\GitHub\Programming-Semester-2-CA3\CA3\obj\Debug\net6.0\CA3.AssemblyInfoInputs.cache
+C:\Users\samki\Documents\GitHub\Programming-Semester-2-CA3\CA3\obj\Debug\net6.0\CA3.AssemblyInfo.cs
+C:\Users\samki\Documents\GitHub\Programming-Semester-2-CA3\CA3\obj\Debug\net6.0\CA3.csproj.CoreCompileInputs.cache
+C:\Users\samki\Documents\GitHub\Programming-Semester-2-CA3\CA3\obj\Debug\net6.0\CA3.dll
+C:\Users\samki\Documents\GitHub\Programming-Semester-2-CA3\CA3\obj\Debug\net6.0\refint\CA3.dll
+C:\Users\samki\Documents\GitHub\Programming-Semester-2-CA3\CA3\obj\Debug\net6.0\CA3.pdb
+C:\Users\samki\Documents\GitHub\Programming-Semester-2-CA3\CA3\obj\Debug\net6.0\CA3.genruntimeconfig.cache
+C:\Users\samki\Documents\GitHub\Programming-Semester-2-CA3\CA3\obj\Debug\net6.0\ref\CA3.dll
